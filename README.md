@@ -33,3 +33,6 @@
 - Trouble shooting (https://velog.io/@st4889/React-native-TILnpm-start)
 - QR Code scan.
 - Brief study of Touchable.
+
+### [2024-05-01]
+- Studied about Object.

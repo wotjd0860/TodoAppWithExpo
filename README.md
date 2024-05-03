@@ -1,7 +1,7 @@
 # React Native Practice with Expo
 
 ## General Information
-- Period : 2024-04-30 ~ 
+- Period : 2024-04-30 ~ 2024-05-03
 - Member : Jaeseong Park
 
 ## Skills
@@ -44,3 +44,6 @@
     npx expo install @react-native-async-storage/async-storage
     ```
 - Alert API
+
+### [2024-05-03]
+- Publishing.

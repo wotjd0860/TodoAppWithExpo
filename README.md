@@ -36,3 +36,11 @@
 
 ### [2024-05-01]
 - Studied about Object.
+
+### [2024-05-02]
+- AsyncStorage (https://docs.expo.dev/versions/latest/sdk/async-storage/)
+
+    ```
+    npx expo install @react-native-async-storage/async-storage
+    ```
+- Alert API
